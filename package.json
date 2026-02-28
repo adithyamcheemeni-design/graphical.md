@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@supabase/supabase-js": "^2.98.0",
+>>>>>>> b339b26 (Backend Established)
     "clsx": "^2.1.1",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.470.0",
